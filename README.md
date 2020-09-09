@@ -5,5 +5,8 @@
 *Sponsored by JMU Economics Executive Advisory Council*
 
 
-## Python and Data Science
-* [Python Data Science Awesome list](https://github.com/krzjoa/awesome-python-data-science#readme)
+## Programming
+* [Python (Data Science focus) resources](https://github.com/krzjoa/awesome-python-data-science#readme)
+* [R resources](https://github.com/qinwf/awesome-R)
+
+
