@@ -9,4 +9,7 @@
 * [Python (Data Science focus) resources](https://github.com/krzjoa/awesome-python-data-science#readme)
 * [R resources](https://github.com/qinwf/awesome-R)
 
+## Tutorials
+* [Create a dynamic econ paper and host it online free](https://github.com/jmueconomicsalumni/dynamic_paper)
+
 
